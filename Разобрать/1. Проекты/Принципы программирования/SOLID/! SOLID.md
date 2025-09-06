@@ -1,0 +1,5 @@
+- [[Принцип единственной ответственности]] (single responsibility principle) 
+- [[Принцип открытости закрытости]] (open-closed principle)
+- [[Принцип подстановки Лисков]] (Liskov substitution principle)
+- [[Принцип разделения интерфейса]] (interface segregation principle)
+- [[Принцип инверсии зависимостей]] (dependency inversion principle)
